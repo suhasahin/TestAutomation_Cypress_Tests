@@ -11,3 +11,14 @@ Test Automation Examples
 - Iframe
 - File upload test
 - Alert popup test
+
+Need to install Cypress.
+
+`$ npm install cypress --save-dev`
+
+## Supported Versions
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 12.13.0   | :white_check_mark: |
+

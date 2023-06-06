@@ -16,7 +16,7 @@ Test Automation Examples
 - File upload test
 - Alert popup test
 
-Need to install Cypress.
+Install Cypress
 
 `$ npm install cypress --save-dev`
 

@@ -1,6 +1,6 @@
 # TestAutomation Cypress Tests
 - Test automation project
--  `<link>` : [Test Automation Practice](https://testautomationpractice.blogspot.com  "Test Automation Practice")
+-  `<link to site>` : [Test Automation Practice](https://testautomationpractice.blogspot.com  "Test Automation Practice")
 - Test and Automation by Suha Sahin
 
 Test Automation Examples

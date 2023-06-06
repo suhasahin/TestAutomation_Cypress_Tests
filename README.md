@@ -8,10 +8,11 @@
 
 Test Automation Examples
 =============
+- Search result assertions
 - Doubleclick assertion
 - Drag and drop items
 - Sliders
-- Iframe
+- Iframe tests
 - File upload test
 - Alert popup test
 

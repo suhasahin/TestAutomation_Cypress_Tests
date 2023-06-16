@@ -1,4 +1,4 @@
-# TestAutomation Cypress Tests
+# Test Automation Cypress Tests
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*Jkb_tsMBOvL6wQ8bzldu8Q.png)
 
